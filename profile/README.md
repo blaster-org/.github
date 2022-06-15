@@ -1,4 +1,4 @@
 # WEB APPLICATIONS, END-POINTS AND OTHER RESOURCES
 
-Contributors
+Contributors<br>
 @nvas @suhaib-jloo @umarelmahedi
