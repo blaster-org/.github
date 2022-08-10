@@ -1,4 +1,4 @@
-# WEB APPLICATIONS, END-POINTS AND OTHER RESOURCES
+# Open source projects
 
 Contributors<br>
 @nvas @suhaib-jloo @umarelmahedi
